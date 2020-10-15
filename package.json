@@ -1,0 +1,27 @@
+git@github.com:corsar6599442/nodejs-package.git{
+  "name": "nodejs-package",
+  "version": "1.0.0",
+  "description": "nodejs tutorial package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corsar6599442/nodejs-package.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "javascript"
+  ],
+  "author": "Mikhail Zakharov <corsar6599442@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corsar6599442/nodejs-package/issues"
+  },
+  "homepage": "https://github.com/corsar6599442/nodejs-package#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
